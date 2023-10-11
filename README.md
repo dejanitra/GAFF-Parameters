@@ -1,5 +1,5 @@
 # General AMBER Force Field (GAFF) Parameters
-This repository contains General AMBER Force Field (GAFF) charge parameters for organic compounds along with their structures.
+This repository contains GAFF charge and structural parameters (*.lib and *.frcmod) for organic compounds, along with their structures in PDB format.
 
 
 The general steps of parameterization conducted are as follows:
@@ -10,3 +10,5 @@ The general steps of parameterization conducted are as follows:
 
 (3) fitting RESP charges using Antechamber.
 
+
+If you are using citrate and dicarboxy acetone parameters, please cite the following article: https://doi.org/10.1021/acs.jpcb.3c00771.
